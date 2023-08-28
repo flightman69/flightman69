@@ -1,6 +1,6 @@
 <div style="display: flex;">
     <img src="https://media.tenor.com/OUndm-_hE0UAAAAd/mr-robot-rami-malek.gif" alt="Image 1" style="width: 33.33%; margin-right: 30px; object-fit: contain;">
-    <img src="https://media.tenor.com/ljrZ9zMhIMsAAAAC/fight-club-narrator.gif" alt="Image 2" style="width: 33.33%; margin-right: 30px; object-fit: contain;">
+   
 </div>
 
 <h1 style="font-family: 'Noto Sans'">Flightman69<img src="https://slackmojis.com/emojis/1749-archlinux/download" alt="" width=35 ><img src="https://slackmojis.com/emojis/18817-dankies/download" alt="" width=35 ><img src="https://slackmojis.com/emojis/10493-hacker/download" alt="" width=35 ></h1>
