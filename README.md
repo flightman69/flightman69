@@ -44,14 +44,15 @@
       </p>
       
 <!-- GitHub Readme Streak Stats -->
-      
+<div style="display: flex;">      
 <h3>🔥 Streak Stats</h3>
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com?user=flightman69&theme=prussian"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com?user=flightman69&theme=prussian" tyle="width: 33.33%; margin-right: 30px; object-fit: contain;" />
     </a>
-    
+      <img src="https://github.com/flightman69/flightman69/blob/main/assets/car.gif" alt="Image 1" style="width: 33.33%; margin-right: 300px; object-fit: contain;">
   </p>
+</div>
       
 <h3>💻 GitHub Profile Stats</h3>
 
