@@ -15,10 +15,13 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Based Guy with hyperactive energy;3%2B+years%20of+Linux%20experience;Trying to build something big&font=Fira%20Code&center=true&width=440&height=45&color=BF40BF&vCenter=true&pause=100&size=22" /></a>
 </p>
 <p align="center"
-<a href="https://twitter.com/flightman69"><img width="32px" alt="Twitter" title="Twitter" src="http://0x0.st/H9RD.svg"/></a>
+  <a href="https://t.me/flightmanx69/"><img width="32px" alt="telegram" title="telegram" src="http://0x0.st/HfS0.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/flightman69"><img width="32px" alt="Twitter" title="Twitter" src="http://0x0.st/H9RD.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://instagram.com/mr.x.robot"><img width="32px" alt="instagram" title="instagram" src="http://0x0.st/H9R3.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+   
   </p>
  <hr>
 
