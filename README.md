@@ -6,8 +6,7 @@
 <h1 style="font-family: 'Noto Sans'">Flightman69<img src="https://slackmojis.com/emojis/1749-archlinux/download" alt="" width=35 ><img src="https://slackmojis.com/emojis/18817-dankies/download" alt="" width=35 ><img src="https://slackmojis.com/emojis/10493-hacker/download" alt="" width=35 ></h1>
 <p style="font-family: 'Noto Sans' ">I'm a 20 year old computer enthusiast. I like cars and coding. I use Arch BTW </p>
 
-<p align="right"> <img src="https://vbr.wocr.tk/badge?page_id=https://github.com/flightman69&color=f75c7e&style=for-the-badge&logo=Github" ></p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=flightman69&label=Profile%20visits&color=0e75b6&style=flat" alt="flightman69" /> </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
