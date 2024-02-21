@@ -1,6 +1,5 @@
-<!-- Mr robot smoking gif -->
-<!-- <div style="display: flex;"> -->
-<!--     <img src="https://media.tenor.com/OUndm-_hE0UAAAAd/mr-robot-rami-malek.gif" alt="Image 1" style="width: 33.33%; margin-right: 30px; object-fit: contain;"> -->
+<div style="display: flex;">
+    <img src="https://media.tenor.com/OUndm-_hE0UAAAAd/mr-robot-rami-malek.gif" alt="Image 1" style="width: 33.33%; margin-right: 30px; object-fit: contain;">
    
 </div>
 
@@ -9,6 +8,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=flightman69&label=Profile%20visits&color=0e75b6&style=flat" alt="flightman69" /> </p>
 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Based Guy with hyperactive energy;3%2B+years%20of+Linux%20experience;Trying to build something big&font=Fira%20Code&center=true&width=440&height=45&color=BF40BF&vCenter=true&pause=100&size=22" /></a>
+</p>
 <p align="center"
   <a href="https://t.me/flightmanx69/"><img width="32px" alt="telegram" title="telegram" src="http://0x0.st/HfS0.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -20,7 +24,7 @@
   </p>
  <hr>
 
-<h2 style="font-family: 'Noto Sans'" >Tools I use</h2>
+<h2 style="font-family: 'Noto Sans'" > Programming and Tools</h2>
       
 <p>
    <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
