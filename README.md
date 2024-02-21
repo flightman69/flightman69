@@ -4,12 +4,10 @@
    
 </div>
 
-<h1 style="font-family: 'Noto Sans'">Flightman69<img src="https://slackmojis.com/emojis/1749-archlinux/download" alt="" width=35 ><img src="https://slackmojis.com/emojis/18817-dankies/download" alt="" width=35 ><img src="https://slackmojis.com/emojis/10493-hacker/download" alt="" width=35 ></h1>
-<p style="font-family: 'Noto Sans' ">I'm a 20 year old computer enthusiast. I like cars and coding. I use Arch BTW </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=flightman69&label=Profile%20visits&color=0e75b6&style=flat" alt="flightman69" /> </p>
-
-<p align="center"
+<h1 style="font-family: 'Noto Sans'">Flightman69<img src="https://slackmojis.com/emojis/1749-archlinux/download" alt="" width=35 ><img src="https://slackmojis.com/emojis/18817-dankies/download" alt="" width=35 ><img src="https://slackmojis.com/emojis/10493-hacker/download" alt="" width=35 >
+<img align=right src="https://komarev.com/ghpvc/?username=flightman69&label=Profile%20visits&color=0e75b6&style=flat" alt="flightman69" /> </p></h1>
+<p style="font-family: 'Noto Sans' ">I'm a 20 year old computer enthusiast. I like cars and coding. I use Arch BTW 
+<p align=""
   <a href="https://t.me/flightmanx69/"><img width="32px" alt="telegram" title="telegram" src="http://0x0.st/HfS0.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/flightman69"><img width="32px" alt="Twitter" title="Twitter" src="http://0x0.st/H9RD.svg"/></a>
@@ -18,6 +16,11 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
    
   </p>
+</p>
+
+
+
+
  <hr>
 
 <h2 style="font-family: 'Noto Sans'" >Tools I use</h2>
@@ -62,5 +65,8 @@
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=flightman69&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+
 
 
