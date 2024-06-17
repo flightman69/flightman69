@@ -1,4 +1,5 @@
-<h1 style="font-family: 'Noto Sans'">Flightman69<img src="https://slackmojis.com/emojis/1749-archlinux/download" alt="" width=35 ><img src="https://slackmojis.com/emojis/18817-dankies/download" alt="" width=35 ><img src="https://slackmojis.com/emojis/10493-hacker/download" alt="" width=35 >
+<h1 style="font-family: 'Noto Sans'">Flightman69<img src="https://slackmojis.com/emojis/1749-archlinux/download" alt="" width=35 ><img src="https://slackmojis.com/emojis/18817-dankies/download" alt="" width=35 ><img src="https://slackmojis.com/emojis/10493-hacker/download" alt="" width=35 > </h1>
+
 <p style="font-family: 'Noto Sans' ">I like cars and coding.
 <p align=""
   <a href="https://t.me/flightmanx69/"><img width="32px" alt="telegram" title="telegram" src="http://0x0.st/HfS0.png"/></a>
